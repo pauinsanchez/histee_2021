@@ -1,5 +1,5 @@
 ---
-title: Història econòmica i de la empresa (Pràctiques)
+title: Guia de pràctiques (HEE)
 type: book  # Do not modify.
 ---
 
