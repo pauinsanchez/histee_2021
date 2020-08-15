@@ -3,7 +3,7 @@ title: Audiovisual
 linktitle: Audiovisual
 type: book
 date: "2020-08-15T00:00:00+01:00"
-weight: 1
+weight: 2
 ---
 
 Les normes relatives a la elaboració i entrega del treball audiovisual estan disponibles en un document específic que els alumnes tenen a la seua disposició a l’Aula Virtual de l’assignatura. 
