@@ -9,16 +9,16 @@
   weight = 10
   
 [[main]]
-  name = "Documentation"
+  name = "Blabla"
   url = "docs/"
   weight = 20
   
 [[main]]
-  name = "Documentation"
+  name = "Blublu"
   url = "docs/"
   weight = 30
   
 [[main]]
-  name = "Documentation"
+  name = "Blibli"
   url = "docs/"
   weight = 40
